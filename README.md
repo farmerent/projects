@@ -1,2 +1,2 @@
-# projects-email-html
+# projects
 Email Projects
